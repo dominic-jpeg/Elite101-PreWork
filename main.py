@@ -1,3 +1,3 @@
-print("Welcome to the workflow automation Chatbot!")
+print("Welcome to the food ordering Chatbot!")
 name = input("What is your name? ")
-age=input("What is your age?" )
+age = int(input("Hello " + name + " what is your age?"))
